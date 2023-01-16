@@ -7,6 +7,9 @@ No estoy seguro de eso,NEUTRAL
 Es un bardo,NEGATIVE
 es un quilombo,NEGATIVE
 es un quilombazo,NEGATIVE
+se les va a armar un quilombazo,NEGATIVE
+SE LES ARMO UN QUILOMBAZO,NEGATIVE
+terrible quilombo,NEGATIVE
 la scaloneta es lo más grande que hay,POSITIVE
 aguante messi,POSITIVE
 te amo messi,POSITIVE
@@ -1040,6 +1043,46 @@ No hay tormenta eléctrica en Ezeiza hace más de una hora..sin embargo el perso
 Como que How to get away with Murder no se puede descargar los capítulos  why ? @NetflixLAT,NEGATIVE
 Otro día más y el pedido no llega. El número de guía de #fedex dice que sigue en la estación local.,NEGATIVE
 LAMENTABLE VERGONZOSO,NEGATIVE
+"El partido de ayer fue increíble, el equipo jugó con mucha determinación",POSITIVE
+"Me encanta ver jugar a Cristiano Ronaldo, es un verdadero maestro en el campo",POSITIVE
+"El entrenador es un fraude, no tiene idea de cómo dirigir un equipo",NEGATIVE
+"La final del mundial fue emocionante, pero no pude evitar sentir tristeza por la derrota de mi equipo",NEUTRAL
+"El arbitraje fue muy malo, se notó que estaban a favor del equipo contrario",NEGATIVE
+"La jugada del gol fue impresionante, el jugador mostró un gran talento",POSITIVE
+"El estadio estaba lleno de gente, el ambiente era electrizante",POSITIVE
+"El equipo jugó muy mal, parecía que no querían ganar",NEGATIVE
+"El entrenador debería dejar de ser tan táctico y dejar que los jugadores jueguen con más libertad",NEGATIVE
+"Fue un partido aburrido, ninguno de los equipos mostró mucha emoción",NEUTRAL
+"Mi hijo de 3 años está aprendiendo a tocar el piano, es muy divertido verlo progresar",POSITIVE
+"Mi esposo y yo jugamos juegos de mesa todos los viernes por la noche, es una tradición que amamos",POSITIVE
+"No me gusta jugar a la ruleta en los casinos, siempre termino perdiendo mucho dinero",NEGATIVE
+"Mi amigo y yo jugamos al golf cada vez que podemos, es una excelente manera de relajarse",POSITIVE
+"Me encanta jugar videojuegos, es una excelente manera de desconectar del estrés del trabajo",POSITIVE
+"Jugamos al póker con mis compañeros de trabajo, pero siempre termino perdiendo",NEGATIVE
+"Mi abuelo me enseñó a jugar al ajedrez cuando era niño, es un juego que siempre he disfrutado",POSITIVE
+"Jugué al básquetbol en la escuela secundaria, pero tuve que dejarlo debido a una lesión",NEUTRAL
+"Mi hija y yo jugamos al escondite todos los días cuando vuelvo del trabajo",POSITIVE
+"Me gusta jugar al tenis con mis amigos en el parque los fines de semana",POSITIVE
+"El tiempo está fresco hoy",NEUTRAL
+"Estoy comprando frutas en el mercado",NEUTRAL
+"Voy a la biblioteca a estudiar",NEUTRAL
+"Mi gato está jugando con un hilo",NEUTRAL
+"Estoy haciendo una lista de tareas para hoy",NEUTRAL
+"Estoy esperando a que mi amigo llegue",NEUTRAL
+"Voy a la farmacia a comprar medicamentos",NEUTRAL
+"Estoy haciendo una llamada telefónica",NEUTRAL
+"Mi hijo está haciendo la tarea de matemáticas",NEUTRAL
+"Estoy paseando con mi perro",NEUTRAL
+"Estoy haciendo una limpieza en mi hogar",NEUTRAL
+"Tengo una reunión programada para esta tarde",NEUTRAL
+"Estoy cocinando la cena para mi familia",NEUTRAL
+"Mi computadora necesita actualizaciones",NEUTRAL
+"Estoy esperando el autobús",NEUTRAL
+"Tengo un examen mañana",NEUTRAL
+"Estoy haciendo la colada",NEUTRAL
+"Mi celular está bajando de batería",NEUTRAL
+"Estoy caminando por el parque",NEUTRAL
+"Estoy escuchando música mientras trabajo",NEUTRAL
 "Hola Patricio, por favor realizá el reclamo en https://www.epec.com.ar/tramites/reclamo-tecnico … para que vaya una cuadrilla a controlar.",NEGATIVE
 Mi apodo es BERMUDEZARMANDO69 y los pagos que no recibí la devolución son 5115230246 del 21/8 y 5097895919 del 19/8 Espero comentarios a la brevedad,NEGATIVE
 Hola! A que numero de teléfono llamás? Encontré uno en internet pero no contesta nadie.  Suerte en tu reclamo!,NEGATIVE
